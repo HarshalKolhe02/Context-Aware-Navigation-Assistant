@@ -1,0 +1,29 @@
+{
+  "total_images": 9,
+  "action_distribution": {
+    "PREPARE_STOP": 2,
+    "EMERGENCY_STOP": 3,
+    "SLOW_DOWN": 2,
+    "YIELD": 1,
+    "PROCEED": 1
+  },
+  "urgency_distribution": {
+    "HIGH": 3,
+    "CRITICAL": 3,
+    "MODERATE": 2,
+    "NONE": 1
+  },
+  "safe_turns_left": 4,
+  "safe_turns_right": 6,
+  "critical_situations": 3,
+  "average_objects_per_scene": 9.222222222222221,
+  "most_common_objects": {
+    "person": 38,
+    "car": 14,
+    "bus": 11,
+    "motorcycle": 8,
+    "traffic light": 6,
+    "stop sign": 5,
+    "truck": 1
+  }
+}
