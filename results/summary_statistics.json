@@ -2,16 +2,16 @@
   "total_images": 9,
   "action_distribution": {
     "PREPARE_STOP": 2,
+    "PROCEED": 1,
     "EMERGENCY_STOP": 3,
     "SLOW_DOWN": 2,
-    "YIELD": 1,
-    "PROCEED": 1
+    "YIELD": 1
   },
   "urgency_distribution": {
     "HIGH": 3,
+    "NONE": 1,
     "CRITICAL": 3,
-    "MODERATE": 2,
-    "NONE": 1
+    "MODERATE": 2
   },
   "safe_turns_left": 4,
   "safe_turns_right": 6,

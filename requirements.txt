@@ -1,0 +1,16 @@
+# Context-Aware Navigation Assistant Dependencies
+
+# Core Deep Learning & Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.5.0
+numpy>=1.24.0
+
+# Decision Engine & Spatial Inference
+scikit-fuzzy>=0.4.2
+scipy>=1.10.0
+
+# Voice Guidance & Audio Output (Optional for Headless)
+pyttsx3>=2.90
